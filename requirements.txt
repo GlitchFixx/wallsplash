@@ -1,0 +1,7 @@
+python-dotenv~=1.0.0
+appscript~=1.2.5
+pydantic~=2.8.2
+python-dotenv
+requests~=2.32.3
+colorama~=0.4.6
+urllib3
